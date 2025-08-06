@@ -1,16 +1,21 @@
-## Hi there 👋
+# 📱 Портфоліо Android-розробника | Одеса, Україна
 
-<!--
-**DaryaIvanovaV/DaryaIvanovaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Проєкти
 
-Here are some ideas to get you started:
+###  KSU Companion (Student Guide)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Опис:** KSU Companion — мобільний довідник для студентів університету. В додатку знаходиться актуальна інформація про навчальний процес, адміністративні послуги та інші аспекти про Херсонський Державний Університет.
+ 
+- Реалізовано: мультимовність, RecyclerView, фрагменти  
+- Стек: Java, Retrofit, Gson, MySQL, Spring Boot, SnapAdmin
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="Flappybird/MainMenu.jpg" alt="Головне меню" width="240"/>
+  <img src="Flappybird/Game.jpg" alt="Ігрова сцена" width="240"/>
+  <img src="Flappybird/Gameplay.jpg" alt="Геймплей" width="240"/>
+  <img src="Flappybird/ScoreMenu.jpg" alt="Меню результатів" width="240"/>
+</div>
+
+# Контакти:
+
+- **Місто:** Одеса, Україна
+- **Telegram:** [@nova_Diva](https://t.me/nova_Diva)
