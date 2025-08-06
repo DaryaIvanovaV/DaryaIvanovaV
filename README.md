@@ -1,6 +1,6 @@
 # 📱 Портфоліо Android-розробника | Одеса, Україна
 
-## Проєкти
+## Проєкти:
 
 ###  KSU Companion (Student Guide)
 
@@ -17,10 +17,10 @@
  <img src="KsuCompanion/PracticalInformation.png" alt="Пректична інформація" width="240"/>
  <img src="KsuCompanion/RestAndLeisure.png" alt="Відочинок та дозвілля" width="240"/>
  <img src="KsuCompanion/DetailRestAndLeisureInformation.png" alt="Детальна інформація відпочинку та дозвілля" width="240"/>
- <img src="KsuCompanion/MobileApp.png" alt="Мобільний додаток" width="1000"/>
+ <img src="KsuCompanion/MobileApp.png" alt="Мобільний додаток" width="980"/>
 </div>
 
-# Контакти:
+## Контакти:
 
 - **Місто:** Одеса, Україна
 - **Telegram:** [@nova_Diva](https://t.me/nova_Diva)
