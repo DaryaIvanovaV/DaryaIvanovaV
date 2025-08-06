@@ -17,7 +17,7 @@
  <img src="KsuCompanion/PracticalInformation.png" alt="Пректична інформація" width="240"/>
  <img src="KsuCompanion/RestAndLeisure.png" alt="Відочинок та дозвілля" width="240"/>
  <img src="KsuCompanion/DetailRestAndLeisureInformation.png" alt="Детальна інформація відпочинку та дозвілля" width="240"/>
- <img src="KsuCompanion/MobileApp.png" alt="Мобільний додаток" width="980"/>
+ <img src="KsuCompanion/MobileApp.png" alt="Мобільний додаток" width="975"/>
 </div>
 
 ## Контакти:
