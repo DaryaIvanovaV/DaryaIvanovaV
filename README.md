@@ -13,6 +13,7 @@
   - парсинг і відображення даних із JSON (через Retrofit + Gson)
   - відтворення аудіо фраз з локальних ресурсів (модуль розмовника)
   - інтеграція з бекендом (Spring Boot + MySQL) через REST API
+
 **Стек:**
   - Android: Java, Android SDK, ViewModel, LiveData, RecyclerView, SharedPreferences
   - API: Retrofit, Gson, RESTful API
