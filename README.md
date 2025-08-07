@@ -6,8 +6,19 @@
 
 **Опис:** KSU Companion — мобільний довідник для студентів університету. В додатку знаходиться актуальна інформація про навчальний процес, адміністративні послуги та інші аспекти про Херсонський Державний Університет.
  
-- Реалізовано: мультимовність, зміна тем, зміна мови, 
-- Стек: Java, Retrofit, Gson, MySQL, Spring Boot, SnapAdmin
+ * Реалізовано:
+  - підтримка мультимовності (українська/англійська) з динамічним перемиканням
+  - зміна теми (світла/темна) з використанням SharedPreferences
+  - відображення структурованих даних з API у вигляді списків (RecyclerView)
+  - парсинг і відображення даних із JSON (через Retrofit + Gson)
+  - відтворення аудіо фраз з локальних ресурсів (модуль розмовника)
+  - інтеграція з бекендом (Spring Boot + MySQL) через REST API
+* Стек:
+  - Android: Java, Android SDK, ViewModel, LiveData, RecyclerView, SharedPreferences
+  - API: Retrofit, Gson, RESTful API
+  - Backend: Spring Boot, MySQL, SnapAdmin
+  - Інші: Git, GitHub
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
  <img src="KsuCompanion/MobileApp.png" alt="Мобільний додаток" width="728"/>
  <img src="KsuCompanion/FirstScreen.png" alt="Екран при першому заході" width="240"/>
